@@ -1,0 +1,7 @@
+C:\OOP Labs\5\LabWork5\LabWork5\bin\Debug\LabWork5.exe.config
+C:\OOP Labs\5\LabWork5\LabWork5\bin\Debug\LabWork5.exe
+C:\OOP Labs\5\LabWork5\LabWork5\bin\Debug\LabWork5.pdb
+C:\OOP Labs\5\LabWork5\LabWork5\obj\Debug\LabWork5.csproj.AssemblyReference.cache
+C:\OOP Labs\5\LabWork5\LabWork5\obj\Debug\LabWork5.csproj.CoreCompileInputs.cache
+C:\OOP Labs\5\LabWork5\LabWork5\obj\Debug\LabWork5.exe
+C:\OOP Labs\5\LabWork5\LabWork5\obj\Debug\LabWork5.pdb
